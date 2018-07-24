@@ -13,10 +13,13 @@
     margin-top: 20px;
     margin-right: 20px;
 }
-
+a.nav-link{
+    color:#777777;
+}
 .bio{
     padding-top: 20px;
 }
+
 
 .navbar{
     width: 100%;
@@ -27,17 +30,19 @@
     clear: both;
 }
 
+
+
+
 a.navbar-brand{
     background: #4aaaa5;
     float:left;
-      margin-left: 30%;
       color: white;
       padding: 20px;
       font-family: "Georgia";
       height: 75px;
       position: absolute;
         top: 0px;
-    left: -143px;
+    left: 34px;
 }
 
 h1{
