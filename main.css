@@ -33,7 +33,7 @@ a.nav-link{
 
 
 
-a.navbar-brand{
+a.nav-link-brand{
     background: #4aaaa5;
     float:left;
       color: white;
@@ -42,7 +42,8 @@ a.navbar-brand{
       height: 75px;
       position: absolute;
         top: 0px;
-    left: 34px;
+        margin-left: -16;
+    
 }
 
 h1{
